@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UT2.3.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(50,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(63,17): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(64,17): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(103): warning C4715: 'Money::operator>': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(159): warning C4715: 'Money::operator>=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(128): warning C4715: 'Money::operator<': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\PR2.3\Money.cpp(190): warning C4715: 'Money::operator<=': not all control paths return a value
+     Creating library D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\Debug\UT2.3.lib and object D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\Debug\UT2.3.exp
+  UT2.3.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR2.3\Debug\UT2.3.dll
